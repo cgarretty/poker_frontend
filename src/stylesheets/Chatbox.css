@@ -1,0 +1,28 @@
+.Chat {
+
+}
+
+.Message-box {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #CCCCCC;
+}
+
+.Message-log {
+  height: 650px;
+  overflow-y: auto;
+}
+
+.Message {
+  margin:0.5em;
+  width: 70%;
+  float: right;
+  word-wrap: break-word;
+}
+
+p {
+  margin:0.5em;
+  padding:0.5em;
+}
